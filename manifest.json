@@ -1,7 +1,7 @@
 {
   "name": "Disable Fandom Death",
   "description": "Extension to disable Fandom wiki death icons when searching for characters.",
-  "version": "1.0",
+  "version": "1.02",
   "manifest_version": 3,
   "permissions": ["activeTab"],
   "action": {

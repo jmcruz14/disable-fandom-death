@@ -11,3 +11,5 @@ function removeDaggerSymbol(list) {
 
 const allList = document.querySelectorAll("li");
 const allSup = document.querySelectorAll("sup");
+removeDaggerSymbol(allList);
+removeDaggerSymbol(allSup);
