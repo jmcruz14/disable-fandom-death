@@ -1,9 +1,9 @@
 {
   "name": "Disable Fandom Death",
   "description": "Extension to disable Fandom wiki death icons when searching for characters.",
-  "version": "1.02",
+  "version": "1.0",
   "manifest_version": 3,
-  "permissions": ["activeTab"],
+  "permissions": ["activeTab", "storage"],
   "action": {
     "default_popup": "index.html",
     "default_icon": "images/reject_logo_128x128.png"
